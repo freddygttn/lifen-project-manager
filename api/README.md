@@ -11,5 +11,6 @@
 ## Run
 
 ```sh
+    source .venv/bin/activate # if needed
     fastapi dev api/main.py
 ```
