@@ -1,5 +1,9 @@
 # lifen-project-manager
 
+## Run
+
+Check out `README.md` file within `client-app` and `api` folders to run the frontend and the backend.
+
 ## What can be improved
 
 - UI / UX is shit
